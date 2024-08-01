@@ -1,0 +1,14 @@
+C:\Users\madson\Desktop\C# teste\bin\Debug\net8.0\C# teste.exe
+C:\Users\madson\Desktop\C# teste\bin\Debug\net8.0\C# teste.deps.json
+C:\Users\madson\Desktop\C# teste\bin\Debug\net8.0\C# teste.runtimeconfig.json
+C:\Users\madson\Desktop\C# teste\bin\Debug\net8.0\C# teste.dll
+C:\Users\madson\Desktop\C# teste\bin\Debug\net8.0\C# teste.pdb
+C:\Users\madson\Desktop\C# teste\obj\Debug\net8.0\C# teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madson\Desktop\C# teste\obj\Debug\net8.0\C# teste.AssemblyInfoInputs.cache
+C:\Users\madson\Desktop\C# teste\obj\Debug\net8.0\C# teste.AssemblyInfo.cs
+C:\Users\madson\Desktop\C# teste\obj\Debug\net8.0\C# teste.csproj.CoreCompileInputs.cache
+C:\Users\madson\Desktop\C# teste\obj\Debug\net8.0\C# teste.dll
+C:\Users\madson\Desktop\C# teste\obj\Debug\net8.0\refint\C# teste.dll
+C:\Users\madson\Desktop\C# teste\obj\Debug\net8.0\C# teste.pdb
+C:\Users\madson\Desktop\C# teste\obj\Debug\net8.0\C# teste.genruntimeconfig.cache
+C:\Users\madson\Desktop\C# teste\obj\Debug\net8.0\ref\C# teste.dll
